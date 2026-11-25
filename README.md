@@ -15,4 +15,4 @@ This repository holds the interactive prototypes, published as a website:
 The prototypes run entirely in the browser on synthetic data. Figures are illustrative and are not
 market data.
 
-Contact: [your name] · [your e-mail]
+Contact: [Gayatri Gawande] · [gayatri.gawande.jp@gmail.com]
